@@ -25,9 +25,13 @@ Problem Statement
 Objectives
 
 ✔ Ensure continuous monitoring of hygiene and air quality.
+
 ✔ Automate complaint generation & escalation for rapid resolution.
+
 ✔ Minimize HAIs and improve patient safety.
+
 ✔ Enable public participation through a complaint portal.
+
 ✔ Improve municipal efficiency through real-time data access.
 
 System Architecture
